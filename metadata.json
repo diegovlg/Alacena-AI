@@ -1,0 +1,7 @@
+{
+  "name": "La Alacena Inteligente",
+  "description": "Una aplicación diseñada para personas mayores que facilita la gestión del inventario de alimentos, planificación de recetas peruanas y listas de compras con costos estimados.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
